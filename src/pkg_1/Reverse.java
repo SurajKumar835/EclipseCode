@@ -11,7 +11,7 @@ public class Reverse {
         int N=Integer.parseInt(br.readLine());
         String s=br.readLine();
         String t=br.readLine();
-        if(s.length()==t.length())
+        if(N==t.length())
         {
             char s1[]=s.toCharArray();
             char t1[]=t.toCharArray();
