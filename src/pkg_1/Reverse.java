@@ -10,6 +10,7 @@ public class Reverse {
         int N=Integer.parseInt(br.readLine());
         String s=br.readLine();
         String t=br.readLine();
+        //String
         if(N==t.length())
         {
             char s1[]=s.toCharArray();
